@@ -3,6 +3,12 @@
 <div></div>
 <a href="https://g.laroza.net/play.php?vid=60ad76914">R</a>
 <div></div>
+<a href="https://vk.com/video760598098_456246305">R1</a>
+<div></div>
+<a href="https://ser.brstej.com/play.php?vid=4a9dce39c">R2</a>
+<div></div>
+<a href="https://vk.com/video760598098_456246564">R3</a>
+<div></div>
 <div>-----</div>
 <a href="https://vk.com/video760598098_456245500">M1</a>
 <div></div>
