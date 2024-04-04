@@ -13,11 +13,7 @@
 <a href="https://vk.com/video760598098_456246644">R4</a>
 <div></div>
 <div>-----</div>
-<a href="https://vk.com/video760598098_456245500">M1</a>
-<div></div>
-<a href="https://vk.com/video828807734_456241019">M2</a>
-<div></div>
-<a href="https://vk.com/video760598098_456246736">M3</a>
+<a href="https://vk.com/video760598098_456246808">M19</a>
 <div></div>
 <div>-----</div>
 <div></div>
