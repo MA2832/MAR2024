@@ -17,7 +17,7 @@
 <div></div>
 <a href="https://vk.com/video828807734_456241019">M2</a>
 <div></div>
-<a href="https://vk.com/video760598098_456245516">M3</a>
+<a href="https://vk.com/video760598098_456246736">M3</a>
 <div></div>
 <div>-----</div>
 <div></div>
