@@ -1,33 +1,13 @@
-# MAR2024
-
-<div></div>
-<a href="https://w27.my-cima.net/play.php?vid=28ebbe400">R</a>
-<div></div>
-<a href="https://vk.com/video760598098_456247522">R1</a>
-<div></div>
-* asdas
-<a href="https://ser.brstej.com/play.php?vid=4a9dce39c">R2</a>
-<div></div>
-<a href="https://vk.com/video760598098_456246564">R3</a>
-<div></div>
-<a href="https://vk.com/video760598098_456246644">R4</a>
-<div></div>
-<div>-----</div>
-<a href="https://vk.com/video760598098_456247645">M30</a>
-<div></div>
-<div>-----</div>
-<a href="https://vk.com/video760598098_456247582">M29</a>
-<div></div>
-<div>-----</div>
-<a href="https://vk.com/video760598098_456247505">M28</a>
-<div></div>
-<div>-----</div>
-<a href="https://vk.com/video760598098_456247435">M27</a>
-<div></div>
-<div>-----</div>
-<a href="https://vk.com/video760598098_456247367">M26</a>
-<div></div>
-<div>-----</div>
-<div></div>
-<a href="https://vk.com/video760598098_456247722">Me3</a>
-<div></div>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+</html>
